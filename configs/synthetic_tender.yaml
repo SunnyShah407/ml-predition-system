@@ -1,0 +1,13 @@
+dataset:
+  n_tenders: 8000
+  n_buyers: 120
+  n_vendors: 450
+  start_date: "2023-01-01"
+  end_date: "2025-12-31"
+  seed: 42
+  output_csv: "data/raw/synthetic_tenders.csv"
+
+schema:
+  target: "winning_total_price"
+  currency: "USD"
+

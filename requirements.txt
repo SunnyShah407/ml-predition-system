@@ -1,0 +1,9 @@
+numpy>=1.19
+pandas>=1.1
+scikit-learn>=1.0
+matplotlib>=3.3
+seaborn>=0.11
+joblib>=1.0
+pyyaml>=5.4
+requests>=2.25
+xgboost>=1.6
